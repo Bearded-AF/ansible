@@ -1,3 +1,9 @@
-ubuntu@192.168.64.132
+[web_servers]
+ubuntu@192.168.64.138
+centos@192.168.64.141
+
+[db_servers]
 ubuntu@192.168.64.137
-ubuntu@192.168.64.140
+
+[file_servers]
+ubuntu@192.168.64.143
